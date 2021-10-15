@@ -1,0 +1,17 @@
+*Por muchos motivos no logré desplegar completamente la App, solo pude con el
+backend y en el front presenté errores. Por cuestiones de tiempo no pude dedicar
+de fondo al despliegue y la aplicación. Como pueden notar, de 5 integrantes 
+solamente finalicé yo. De antemano disculpas, me entenderán la situación
+y el esfuerzo brindado.
+
+Pasos para ejecutar la aplicación:
+
+-Ejecutar npm install en la raíz, es decir en esta ruta.
+
+-Ejecutar npm install en el backend
+
+-Ejecturar npm run serve en la raíz
+
+-Ejecutar mongod en el backend
+
+-Ejecutar nodemon en el backend
